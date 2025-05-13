@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mylisuthy / juan david gonzalez hincapie
 - 👀 I'm interested in exploring concepts to programmation.
-- 🌱 I'm currently learning python and i interested to learn all language of programs. i love the programation- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm currently learning python and i interested to learn all language of programs. i love the programmation- 💞️ I'm looking to collaborate on projects to practice my concepts.
 - 📫 How to reach me, with message or mail with my personal mail (juanch052048@gmail.com) or contact me with my phone number (3004527640) and if you don't contact to me with dat options, i have a discord acount (user ID msuthy#1981)
 - 😄 Pronouns: you can talk me for my name juan or my second name david both names are correctly for mi
 - ⚡ Fun fact: i'm a junior programmer, I don't have a much experience but i wish continue with my traning.
