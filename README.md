@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FBFF&height=200&section=header&text=JUAN%20DAVID%20GONZALEZ&fontSize=60&fontAlignY=35&animation=twinkling&theme=dark" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FBFF&height=180&section=header&text=JUAN%20DAVID%20GONZALEZ&fontSize=50&fontAlignY=35&animation=twinkling&theme=dark" width="100%"/>
 
   <table>
     <tr>
@@ -33,16 +33,16 @@
       <p><b>Name:</b> Juan David Gonzalez Hincapie</p>
       <p><b>Class:</b> Junior Full-Stack Developer</p>
       <p><b>Location:</b> Itagüí, Antioquia, CO</p>
-      <p><b>English Level:</b> B1 (Intermediate)</p>
+      <p><b>English Level:</b> B1</p>
       <hr>
-      <i>"Dedicated developer with a technical command of JavaScript, Python, and C#. Focused on building efficient, scalable solutions and continuous professional growth."</i>
+      <i>"Dedicated developer with technical mastery in JavaScript, Python, and C#. I focus on building efficient, scalable solutions and continuous professional growth."</i>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🇪🇸 Versión Español <a name="español"></a></h3>
       <p><b>Nombre:</b> Juan David Gonzalez Hincapie</p>
       <p><b>Rol:</b> Desarrollador Full-Stack Junior</p>
       <p><b>Ubicación:</b> Itagüí, Antioquia, CO</p>
-      <p><b>Nivel Inglés:</b> B1 (Intermedio)</p>
+      <p><b>Nivel Inglés:</b> B1</p>
       <hr>
       <i>"Desarrollador dedicado con dominio técnico en JavaScript, Python y C#. Enfocado en construir soluciones eficientes, escalables y en constante crecimiento profesional."</i>
     </td>
@@ -51,12 +51,12 @@
 
 ---
 
-### 🎒 Inventory (Technical Skills)
+### 🎒 Inventory (Skills & Equipment)
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -69,23 +69,23 @@
 ### 🍓 Quest Log (Academy & Projects)
 <table border="0">
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <details>
-        <summary><b>[ENG] Click to expand Quests 📜</b></summary>
+        <summary><b>🇺🇸 View Active Quests</b></summary>
         <ul>
           <li><b>Riwi Coder Training:</b> Intensive Full-Stack program (Feb 2025 - Dec 2025).</li>
-          <li><b>System Break:</b> Linux monitoring microservices with C#.</li>
-          <li><b>TalentosPlus:</b> Workflow automation and platform integration.</li>
+          <li><b>System Break:</b> Linux security system using microservices in C#.</li>
+          <li><b>TalentosPlus:</b> Integration and workflow automation for employment platforms.</li>
         </ul>
       </details>
     </td>
-    <td>
+    <td width="50%" valign="top">
       <details>
-        <summary><b>[ESP] Click para expandir Misiones 📜</b></summary>
+        <summary><b>🇪🇸 Ver Misiones Activas</b></summary>
         <ul>
           <li><b>Formación Riwi:</b> Programa intensivo Full-Stack (Feb 2025 - Dic 2025).</li>
-          <li><b>System Break:</b> Microservicios de monitoreo Linux en C#.</li>
-          <li><b>TalentosPlus:</b> Automatización de flujos e integración de plataformas.</li>
+          <li><b>System Break:</b> Sistema de seguridad Linux con microservicios en C#.</li>
+          <li><b>TalentosPlus:</b> Integración y automatización de flujos para plataformas de empleo.</li>
         </ul>
       </details>
     </td>
@@ -107,7 +107,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mylisuthy/Mylisuthy/main/assets/creeper_dance.gif" width="60" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/1000/giphy.gif'"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/1000/giphy.gif" width="60" />
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FBFF&height=60&section=footer" width="100%"/>
   <sub><b>"The future is built one block at a time / El futuro se construye bloque a bloque"</b></sub>
