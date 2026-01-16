@@ -1,13 +1,15 @@
 <div align="center">
 
 <!-- HEADER / BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=auto&height=200&section=header&text=JUAN%20DAVID%20GONZALEZ&fontSize=70&animation=fadeIn" width="100%" />
+<div align="center">
+  <img src="https://img.shields.io/badge/-WELCOME_TO_THE_GAME-0D0221?style=for-the-badge&labelColor=0D0221&color=00FBFF&height=100" width="100%" />
+</div>
 
 <br/>
 
 <!-- HERO CHOICE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=CHOOSE+YOUR+HERO;STAY+DETERMINED+❤️;LEVELING+UP+DAILY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=CHOOSE+YOUR+HERO;STAY+DETERMINED+❤️;LEVELING+UP+DAILY" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -72,22 +74,26 @@
 ### 🏆 SCOREBOARD (PLAYER STATS)
 
 <div align="center">
-  <!-- GitHub Readme Streak Stats - Usually more stable -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mylisuthy&theme=tokyonight&background=0D0221&ring=FF00FF&fire=00FBFF&currStreakNum=FF00FF" alt="Streak Stats" />
+  <!-- PRIMARY STATS - 100% RELIABLE -->
+  <img src="https://img.shields.io/github/followers/Mylisuthy?label=FOLLOWERS&style=for-the-badge&color=00FBFF&labelColor=0D0221&logo=github" />
+  <img src="https://img.shields.io/github/stars/Mylisuthy?label=TOTAL%20STARS&style=for-the-badge&color=FF00FF&labelColor=0D0221&logo=github" />
+  <img src="https://img.shields.io/github/directory-file-count/Mylisuthy/Readmed?label=GLOBAL%20REPOS&style=for-the-badge&color=00FBFF&labelColor=0D0221&logo=github" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Alternative Stats via Shields.io while the main service is down -->
-  <img src="https://img.shields.io/github/followers/Mylisuthy?label=Followers&style=for-the-badge&color=00FBFF&labelColor=0D0221" />
-  <img src="https://img.shields.io/github/stars/Mylisuthy?label=Stars&style=for-the-badge&color=FF00FF&labelColor=0D0221" />
-  <img src="https://img.shields.io/github/repo-size/Mylisuthy/Readmed?label=Active%20Project&style=for-the-badge&color=00FBFF&labelColor=0D0221" />
+  <!-- SECONDARY STATS / LEVELING -->
+  <img src="https://img.shields.io/badge/RANK-PRO%20PLAYER-FF00FF?style=for-the-badge&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-00FBFF?style=for-the-badge&labelColor=0D0221&logo=javascript" />
+  <img src="https://img.shields.io/badge/DATABASE-POSTGRESQL-FF00FF?style=for-the-badge&labelColor=0D0221&logo=postgresql" />
 </div>
 
+<br/>
+
 <div align="center">
-  <!-- Activity Graph - This service is usually independent -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mylisuthy&theme=tokyonight&bg_color=0D0221&color=00FBFF&line=FF00FF&point=00FBFF" width="100%" />
+  <!-- Activity Graph - This service is usually independent and robust -->
+  <img src="https://raw.githubusercontent.com/Mylisuthy/Mylisuthy/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
 </div>
 
 ---
