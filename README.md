@@ -74,15 +74,6 @@
 ### 🏆 SCOREBOARD (PLAYER STATS)
 
 <div align="center">
-  <!-- PRIMARY STATS - 100% RELIABLE -->
-  <img src="https://img.shields.io/github/followers/Mylisuthy?label=FOLLOWERS&style=for-the-badge&color=00FBFF&labelColor=0D0221&logo=github" />
-  <img src="https://img.shields.io/github/stars/Mylisuthy?label=TOTAL%20STARS&style=for-the-badge&color=FF00FF&labelColor=0D0221&logo=github" />
-  <img src="https://img.shields.io/github/directory-file-count/Mylisuthy/Readmed?label=GLOBAL%20REPOS&style=for-the-badge&color=00FBFF&labelColor=0D0221&logo=github" />
-</div>
-
-<br/>
-
-<div align="center">
   <!-- SECONDARY STATS / LEVELING -->
   <img src="https://img.shields.io/badge/RANK-PRO%20PLAYER-FF00FF?style=for-the-badge&labelColor=0D0221" />
   <img src="https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-00FBFF?style=for-the-badge&labelColor=0D0221&logo=javascript" />
