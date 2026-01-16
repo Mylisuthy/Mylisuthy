@@ -92,8 +92,8 @@
 <br/>
 
 <div align="center">
-  <!-- Activity Graph - This service is usually independent and robust -->
-  <img src="https://raw.githubusercontent.com/Mylisuthy/Mylisuthy/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
+  <!-- Activity Graph - Stable and styled for Tokyonight -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mylisuthy&theme=tokyonight&bg_color=0D0221&color=00FBFF&line=FF00FF&point=00FBFF&hide_border=true" width="100%" />
 </div>
 
 ---
