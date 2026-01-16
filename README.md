@@ -75,7 +75,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/RANK-PRO%20PLAYER-FF00FF?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/LANGUAGE-CSHARP-00FBFF?style=for-the-badge&labelColor=0D0221&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C#-00FBFF?style=for-the-badge&labelColor=0D0221&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/DATABASE-POSTGRESQL-FF00FF?style=for-the-badge&labelColor=0D0221&logo=postgresql&logoColor=white" />
 </div>
 
